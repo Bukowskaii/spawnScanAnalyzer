@@ -64,7 +64,7 @@ namespace spawnScanAnalyzer
     {
         double lat;
         double lng;
-        int lure;
+        long lure;
         public string id;
 
         public Stop(dynamic stop)

@@ -51,7 +51,7 @@ namespace spawnScanAnalyzer
     {
         DateTime time;
         Species name;
-        int id;
+        long id;
         string cell;
         string sid;
         double lat;
